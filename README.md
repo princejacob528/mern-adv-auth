@@ -40,7 +40,7 @@ To run this app locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/advanced-auth-mern.git
+git clone https://github.com/princejacob528/advanced-auth-mern.git
 ```
 2. Install backend dependencies:
 ```bash
